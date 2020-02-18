@@ -1,0 +1,4 @@
+Tekst Combo + tekst omkring hvor meget det bliver ganget op eller + (X)
+Point ændrer farve og bliver større når man får flere (X)
+Se om det kan lade sig gøre at rette gennem vægge bug (X)
+Bedre styring, især væghop ()

@@ -1,0 +1,9 @@
+#gameDiv{
+    position:absolute;
+    top: 160px;
+    left: 25%;
+}
+
+.text {
+    font-size: 50px;
+}
